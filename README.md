@@ -1,1 +1,1 @@
-This is a project for the Telegram finacial detect
+This is a project for the Telegram financial detection program
